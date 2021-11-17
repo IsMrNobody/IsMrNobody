@@ -10,7 +10,7 @@
            js: ["Vue", "Nuxt"],
            css: ["vuetify", "Bootstrap", "Material Design"]
       },
-        currentOccupation: ["last year student, open for job opportunities"],
+        currentOccupation: ["last year student, open for job opportunities"]
       
 #### 💻 Programming languages and tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -20,7 +20,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-black?style=flat-square&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-black?style=flat-square&logo=nuxt.js)
 
 
 ### 🎨 Edition & Graphic Desing
