@@ -4,7 +4,13 @@
       const ismrnobody = { 
         code: [HTML, CSS, Javascript],
         tools: [Vue, Nuxt, Node, Git, Visual Studio]
-      }
+      },
+      technologies: {
+        frontEnd: {
+           js: ["Vue", "Nuxt"],
+           css: ["vuetify", "Bootstrap", "Material Design"]
+      },
+        currentOccupation: ["last year student, open for job opportunities"],
       
 #### 💻 Programming languages and tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -35,33 +41,21 @@
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<h2 align="center">Contact me on</h2>
+<!-- <h2 align="center">Contact me on</h2>
       <h2 align="center">
-         <a href="https://twitter.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.linkedin.com/in/gauravghongde">
+         <a href="https://www.linkedin.com/in/jamquintana/">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.instagram.com/madebygaurav">
+         <a href="https://github.com/IsMrNobody">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.behance.net/gauravghongde">
+         <a href="https://www.behance.net/ismrnobody">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
          </a>
-         <a href="mailto:7gaurav.ghongde@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         <a href="https://cutt.ly/WxluC3n">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
          </a>
-         <a href="https://telegram.me/gsg7397">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://discord.gg/2RHSUwy">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
-         </a>
-      </h2>
+ </h2> -->
 
 
 <!---
